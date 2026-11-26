@@ -111,7 +111,7 @@ Install the latest version. Since v2.1.0 everything the backend needs is inside 
 | **Classic Old TTS (8 Voices)** | 8 | Retro synthesised voices |
 | **Custom models** | ∞ | Import any Beatrice-compatible model as a ZIP |
 
-**Import your own:** open the model menu, choose **Upload Custom Model** and pick a ZIP that contains a `beatrice_paraphernalia_*` folder.
+**Import your own:** open the model menu, choose **Upload Custom Model** and pick a ZIP that contains a `beatrice_paraphernalia_*` folder. Train one with the [Beatrice trainer for Mac](https://github.com/JayDev-27/beatrice-trainer-macos) or [in Colab](https://github.com/JayDev-27/beatrice-colab), or grab a ready-made one from [beatrice-voice-models](https://github.com/JayDev-27/beatrice-voice-models).
 
 ## 🎛️ Controls
 
@@ -207,6 +207,9 @@ scripts/                 Python bundling and ad-hoc signing for the build
 |:--|:--|
 | 🪟 [Beatrice for Windows](https://github.com/JayDev-27/beatrice-voicechanger-windows) | The same app for Windows 10 and 11 |
 | 🌍 [Website](https://project-beatrice.vercel.app) | Downloads, guides and voice samples |
+| 🧠 [Trainer for Mac](https://github.com/JayDev-27/beatrice-trainer-macos) · [Colab](https://github.com/JayDev-27/beatrice-colab) | Train your own voice model |
+| 📂 [Dataset Web UI](https://github.com/JayDev-27/beatrice-dataset-webui-macos) | Prepare recordings for training |
+| 🎭 [Voice models](https://github.com/JayDev-27/beatrice-voice-models) | Ready-made models to import |
 
 ## 🙏 Credits
 
