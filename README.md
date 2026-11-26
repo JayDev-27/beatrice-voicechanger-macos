@@ -11,7 +11,7 @@
 [![Website](https://img.shields.io/badge/Website-project--beatrice.vercel.app-7c8cff?style=for-the-badge&labelColor=000000)](https://project-beatrice.vercel.app)
 [![GitHub Stars](https://img.shields.io/github/stars/JayDev-27/beatrice-voicechanger-macos?style=for-the-badge&color=7c8cff&labelColor=000000)](https://github.com/JayDev-27/beatrice-voicechanger-macos/stargazers)
 
-![Apple Silicon](https://img.shields.io/badge/Apple%20Silicon-M1%20→%20M4-a887dc?style=flat-square&labelColor=000000)
+![Apple Silicon](https://img.shields.io/badge/Apple%20Silicon-M1%20%E2%86%92%20M4-a887dc?style=flat-square&labelColor=000000)
 ![macOS](https://img.shields.io/badge/macOS-11%2B-a887dc?style=flat-square&labelColor=000000)
 ![Runs offline](https://img.shields.io/badge/runs-100%25%20offline-3dffa8?style=flat-square&labelColor=000000)
 ![License](https://img.shields.io/badge/license-MIT-a1a1aa?style=flat-square&labelColor=000000)
